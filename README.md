@@ -1,5 +1,9 @@
 # Jardin de valerie
 
+## Infomaniak
+
+FTP https://manager.infomaniak.com/v3/326329/hosting-web/483860/users
+
 
 ## Dev
 
